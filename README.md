@@ -36,21 +36,17 @@ Resume Evaluation:
 ⚠️ Needs improvement in resume structure and MLOps
 🎯 Recommended courses: Cloud (AWS/GCP), MLOps, Advanced ML
 
-yaml
-Copy
-Edit
+
 
 ---
 
 ## 📂 Project Structure
 
 .
-├── AI_Resume_Analyzer_Colab.ipynb # Google Colab notebook with full code
+├── AI_resume_analyzer_Colab.ipynb # Google Colab notebook with full code
 ├── README.md # Project overview and usage guide
 
-yaml
-Copy
-Edit
+
 
 > 💡 All core logic is inside the Colab notebook, including PDF parsing, OCR fallback, and Gemini evaluation.
 
@@ -97,9 +93,7 @@ Add: GOOGLE_API_KEY=your_api_key_here
 Or use os.environ["GOOGLE_API_KEY"] = "your_api_key_here"
 
 🧠 Sample Prompt Sent to Gemini
-sql
-Copy
-Edit
+
 You are an experienced HR with technical knowledge...
 Evaluate the following resume for a role in Machine Learning...
 Highlight skills, weaknesses, and recommend courses...
@@ -118,13 +112,7 @@ pdfplumber, pytesseract, streamlit open-source communities
 📃 License
 This project is under the MIT License – feel free to use and modify.
 
-yaml
-Copy
-Edit
 
----
-
-Let me know if you want this in `.md` file format directly, or if you'd like to add badges, screenshots, or deployment buttons.
 
 
 
