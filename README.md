@@ -18,7 +18,7 @@ An intelligent resume analyzer that extracts content from PDF resumes and evalua
 
 ## 🚀 Demo (Colab)
 
-> 📎 [Click here to open in Google Colab](https://colab.research.google.com/)
+> 📎 [Run on Google Colab](https://colab.research.google.com/drive/1osdkeQqoAlc7OHXQHowQMC8Bp9NslJgq#scrollTo=sI0nriOnzToL)
 
 Just upload your resume (`Resume.pdf`) and run all cells!
 
@@ -27,7 +27,7 @@ Just upload your resume (`Resume.pdf`) and run all cells!
 ## 🧪 Sample Output
 
 Extracted Text from PDF:
-SUJOY DUTTA
+SUMIT KUMAR NANDY
 West Bengal, India | P: +xxxxxxxxxx | ...
 ...
 
@@ -124,12 +124,18 @@ Edit
 
 ---
 
-Let me know if you also want to include screenshots or a deployment badge later!
+Let me know if you want this in `.md` file format directly, or if you'd like to add badges, screenshots, or deployment buttons.
 
 
 
 
 
 
+
+
+
+
+
+Tools
 
 
